@@ -10,3 +10,5 @@ Pre-requisites:
  great_expectations init
  
  pip install 'acryl-datahub[great-expectations]'
+
+ nohup jupyter notebook &
